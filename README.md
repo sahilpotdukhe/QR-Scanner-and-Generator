@@ -1,6 +1,6 @@
 <!-- Project Title -->
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="readmeimages/movieshublogo.jpeg" alt="Echat Logo" width="500" height="400">
+  <img src="readmeimages/logo.jpeg" alt="QR Logo" width="500" height="400">
 </div>
 
 
@@ -95,11 +95,25 @@ final String apiKey='ddc4f1e089f508e004ae72d6eb9';
       </td>
       <td style="padding-right: 0px; border: none;">
         <img src="readmeimages/2.png" alt="Screen 2" width="250">
-        <p align="center">MovieDetails Screen</p>
+        <p align="center">QRScanner Screen</p>
       </td>
       <td style="border: none;">
         <img src="readmeimages/3.png" alt="Screen 3" width="250">
-        <p align="center">TrailerPlayback Screen </p>
+        <p align="center">QRDecode Screen </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="padding-right: 0px; border: none;">
+        <img src="readmeimages/4.png" alt="Screen 1" width="250">
+        <p align="center">QRGenerate Screen</p>
+      </td>
+      <td style="padding-right: 0px; border: none;">
+        <img src="readmeimages/2.png" alt="Screen 2" width="250">
+        <p align="center">MovieDetails Screen</p>
       </td>
     </tr>
   </table>
