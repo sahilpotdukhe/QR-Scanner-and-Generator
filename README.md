@@ -1,6 +1,6 @@
 <!-- Project Title -->
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="readmeimages/logo.jpeg" alt="QR Logo" width="500" height="400">
+  <img src="readmeimages/logo.jpeg" alt="QR Logo" width="300" height="300">
 </div>
 
 
@@ -68,7 +68,7 @@ final String apiKey='ddc4f1e089f508e004ae72d6eb9';
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sahilpotdukhe/Movies-Hub.git
+   git clone https://github.com/sahilpotdukhe/QR-Scanner-and-Generator.git
 2. **Navigate to the project directory:**
     ```bash
     cd echat
@@ -112,8 +112,8 @@ final String apiKey='ddc4f1e089f508e004ae72d6eb9';
         <p align="center">QRGenerate Screen</p>
       </td>
       <td style="padding-right: 0px; border: none;">
-        <img src="readmeimages/2.png" alt="Screen 2" width="250">
-        <p align="center">MovieDetails Screen</p>
+        <img src="readmeimages/5.png" alt="Screen 2" width="250">
+        <p align="center">Splash Screen</p>
       </td>
     </tr>
   </table>
